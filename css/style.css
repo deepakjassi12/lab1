@@ -1,1 +1,24 @@
+*{
+ padding: 0;
+ margin: 0;
+box-sizing: border-box;
+}
 
+header{
+
+    padding: 20px;
+}
+
+@media (min-width: 768px) {
+
+  .cards-container{
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    }
+
+}
+
+footer{
+    margin-top: 20px;
+}
